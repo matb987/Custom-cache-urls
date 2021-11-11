@@ -1,3 +1,5 @@
+#testing only do not use in production
+*.*.*
 assetcdn.101.arenanetworks.com
 assetcdn.102.arenanetworks.com
 assetcdn.103.arenanetworks.com
