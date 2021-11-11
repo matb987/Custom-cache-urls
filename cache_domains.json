@@ -1,7 +1,7 @@
 {
 	"cache_domains": [
 		{
-			"name": "Netflix",
+			"name": "netflix",
 			"description": "Links for netflix services",
 			"domain_files": ["netflix.txt"]
 		},
